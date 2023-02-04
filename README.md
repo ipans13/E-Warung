@@ -2,7 +2,7 @@
 Nama: Rivan Setiawan
 NPM: 21552011056
 
-Tata Cara Penggunaan Web
+# Tata Cara Penggunaan Web
 
 ***************** Mohon Gunakan browser Google Chrome *********************<br>
 Pada halaman awal/depan web akan diberikan pilihan menu peran yang akan dilakukan.<br>
