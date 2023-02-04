@@ -1,5 +1,5 @@
 # E-Warung
-Nama: Rivan Setiawan
+Nama: Rivan Setiawan<br>
 NPM: 21552011056
 
 # Tata Cara Penggunaan Web
