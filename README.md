@@ -5,3 +5,6 @@ NPM: 21552011056
 Tata Cara Penggunaan Web
 
 ***************** Mohon Gunakan browser chrome *********************
+
+Pada halaman awal/depan web akan diberikan pilihan peran yang akan dilakukan.<br>
+sidjsi
