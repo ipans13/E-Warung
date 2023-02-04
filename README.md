@@ -15,3 +15,6 @@ Jika sebagai owner/admin warung maka pilih menu "Yang Punya Warung". setelah itu
 Jika ingin membuat warung maka pilih menu "yang pingin punya warung". masukkan semua data yang ada dan pilih dan klik "daftar warung".
 
 selain itu juga pada halaman depan terdapat menu tentang dan bantuan seputar website 
+
+
+****Jika saat login sudah memasukkan user dan password yang benar tetapi tidak terredirect ke halaman dashboard, maka coba kembali 1 kali lagi atau ganti url login menjadi dashboard********
